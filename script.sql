@@ -50,4 +50,4 @@ INSERT INTO comentarios (fecha, hora_creacion, contenido, id_post) VALUES ('2022
 INSERT INTO comentarios (fecha, hora_creacion, contenido, id_post) VALUES ('2022-04-05', '22:32:00', 'Hola Margarita, ¿cómo van tus avances con PostgreSQL?', 7);
 INSERT INTO comentarios (fecha, hora_creacion, contenido, id_post) VALUES ('2022-04-05', '22:53:20', 'Margarita, ¿qué es PostgreSQL?', 7);
 INSERT INTO comentarios (fecha, hora_creacion, contenido, id_post) VALUES ('2022-04-05', '23:03:02', '¿Das clases de PostgreSQL?', 7);
-INSERT INTO comentarios (fecha, hora_creacion, contenido, id_post) VALUES ('2022-04-05', '23:24:00', 'Margarita, eres seca!!!!', 7);
+INSERT INTO comentarios (fecha, hora_creacion, contenido, id_post) VALUES ('2022-04-05', '23:24:00', 'Margarita, eres seca!!!!!', 7);
